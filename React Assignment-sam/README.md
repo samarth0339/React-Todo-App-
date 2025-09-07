@@ -16,7 +16,7 @@ Follow these steps to set up and run the project on your local machine:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone < https://github.com/samarth0339/React-Todo-App.git >
+git clone <https://github.com/samarth0339/React-Todo-App-.git>
 
 2️⃣ Navigate into the Project Directory
       cd React-Todo-App-main
